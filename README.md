@@ -17,6 +17,7 @@ In this process, we use the roast tool and also need the topology of the tree of
 ########################step3##########################
 
 run PHAST
+This step requires the gene annotation file of the reference species.
 A detailed tutorial can be found at the following website http://compgen.cshl.edu/phast/phastCons-HOWTO.html.
 
 ########################step4##########################
